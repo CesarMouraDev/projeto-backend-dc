@@ -1,3 +1,11 @@
+# Equipe 3 - Participantes:
+- daniel
+- janderson
+- cesar
+- hermes
+- fernanda
+- caio
+
 ## Escopo do projeto
 
 Para a implementação deste projeto vamo precisar usar as seguintes tecnologias:
