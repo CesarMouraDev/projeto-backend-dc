@@ -2,7 +2,7 @@
 - Daniel - @mrdanp07
 - Janderson @jarderson4lmeida
 - Cesar @CesarMouraDev
-- Hermes
+- Hermes @HermesWebDeveloper
 - Fernanda
 - Caio
 
