@@ -1,10 +1,10 @@
 # Equipe 3 - Participantes:
-- daniel
-- janderson
-- cesar
-- hermes
-- fernanda
-- caio
+- Daniel - @mrdanp07
+- Janderson @jarderson4lmeida
+- Cesar @CesarMouraDev
+- Hermes
+- Fernanda
+- Caio
 
 ## Escopo do projeto
 
